@@ -1,0 +1,8 @@
+# Ignore the entire 'data' directory
+data/
+
+# Ignore all CSV files anywhere in the repository
+*.csv
+
+# Alternatively, if you only want to ignore CSV files *inside* the data directory:
+# data/*.csv
