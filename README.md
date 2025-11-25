@@ -69,6 +69,21 @@ Git Workflow
 -   Create task-2 branch
 -   Commit frequently
 
+📈 Task 3 — Correlation between news and stock movement
+
+Tasks
+
+-   Date Allignement
+-   Sentiment Analysis
+-   Calculate Daily Stock Returns
+-   Visualize KPI's
+
+Git Workflow
+
+-   Merge task-1 into main
+-   Create task-2 branch
+-   Commit frequently
+
 ⚙️ Installation & Setup
 
 git clone
